@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+build/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# App Data (optional - remove these if you want to track them)
+# SUFST-Desktop/database.json
+# SUFST-Desktop/firmwares/*
+# SUFST-Desktop/images/*
