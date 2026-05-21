@@ -1,6 +1,6 @@
 # SUFST Firmware Manager
 
-A desktop application designed for the Southampton University Formula Student Team (SUFST) to manage, distribute, and track firmware deployments across the vehicle fleet's PCBs.
+A desktop application designed for the Southampton University Formula Student Team (SUFST) to manage, distribute, and track firmware deployments across the vehicle's PCBs.
 
 ## Overview
 
