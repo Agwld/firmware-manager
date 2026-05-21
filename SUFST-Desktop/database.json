@@ -1,0 +1,59 @@
+{
+    "admin_password": "sufst",
+    "pcbs": [
+        {
+            "id": "vcu",
+            "name": "Betaflight",
+            "description": "Test Repo",
+            "github": "https://github.com/betaflight/betaflight",
+            "status": "ok",
+            "version": "4.5.1",
+            "image": "Screenshot 2026-01-01 224727.png"
+        },
+        {
+            "id": "wled",
+            "name": "WLED",
+            "description": "Test Repo",
+            "github": "https://github.com/Aircoookie/WLED",
+            "status": "ok",
+            "version": "v16.0.0",
+            "image": ""
+        },
+        {
+            "id": "expresslrs",
+            "name": "ExpressLRS",
+            "description": "TestPCB",
+            "github": "https://github.com/ExpressLRS/ExpressLRS",
+            "status": "ok",
+            "version": "Unknown",
+            "image": ""
+        }
+    ],
+    "firmwares": {
+        "vcu": [],
+        "wled": [],
+        "expresslrs": []
+    },
+    "suites": [
+        {
+            "id": "suite_4d9ce83a",
+            "name": "Originals",
+            "date": "2026-05-21",
+            "pcb_versions": {
+                "vcu": "4.3.0-RC3",
+                "wled": "v0.14.0-b5"
+            }
+        },
+        {
+            "id": "suite_28715800",
+            "name": "Latest",
+            "date": "2026-05-21",
+            "pcb_versions": {
+                "vcu": "4.5.1",
+                "wled": "v16.0.0",
+                "expresslrs": "ignore"
+            }
+        }
+    ],
+    "active_suite_id": "suite_28715800"
+}
